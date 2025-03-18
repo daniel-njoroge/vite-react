@@ -1,4 +1,3 @@
-import myimage from './assets/me.jpeg'
 import './App.css'
 
 function App() {  
